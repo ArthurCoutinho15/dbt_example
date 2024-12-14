@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: commodities
+    database: commodities  
+    schema: commodities  
+    tables:
+      - name: commodities
